@@ -8,4 +8,5 @@ A collection of study notes based upon the [AWS Certified Solutions Architect (S
 ## Part One: The Core AWS Services
 
 * [Chapter 1 - Introduction to Cloud Computing and AWS](./chapter-1)
+* [Chapter 2 - Amazon Elastic Compute Cloud and Amazon Elastic Block Store](./chapter-2)
 
