@@ -11,3 +11,4 @@ A collection of study notes based upon the [AWS Certified Solutions Architect (S
 * [Chapter 2 - Amazon Elastic Compute Cloud and Amazon Elastic Block Store](./chapter-2)
 * [Chapter 3 - AWS Storage](./chapter-3)
 * [Chapter 4 - Amazon Virtual Private Cloud](./chapter-4)
+* [Chapter 5 - Database Services](./chapter-5)
