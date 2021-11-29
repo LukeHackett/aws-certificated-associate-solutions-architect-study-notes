@@ -13,4 +13,4 @@ A collection of study notes based upon the [AWS Certified Solutions Architect (S
 * [Chapter 4 - Amazon Virtual Private Cloud](./chapter-4)
 * [Chapter 5 - Database Services](./chapter-5)
 * [Chapter 6 - Authentication and Authorisation](./chapter-6)
-
+* [Chapter 7 - CloudTrail, CloudWatch, and AWS Config](./chapter-7)
