@@ -15,4 +15,4 @@ A collection of study notes based upon the [AWS Certified Solutions Architect (S
 * [Chapter 6 - Authentication and Authorisation](./chapter-6)
 * [Chapter 7 - CloudTrail, CloudWatch, and AWS Config](./chapter-7)
 * [Chapter 8 - The Domain Name System and Network Routing](./chapter-8)
-
+* [Chapter 9 - Simple Queue Service and Kinesis](./chapter-9)
