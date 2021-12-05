@@ -20,3 +20,4 @@ A collection of study notes based upon the [AWS Certified Solutions Architect (S
 ## Part Two: The Well-Architected Framework
 
 * [Chapter 10 - The Reliability Pillar](./chapter-10)
+* [Chapter 11 - The Performance Efficiency Pillar](./chapter-11)
