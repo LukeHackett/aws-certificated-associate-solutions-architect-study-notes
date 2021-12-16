@@ -1,4 +1,4 @@
-# AWS Certificate Cloud Practitioner - Study Notes
+# AWS Certified Solutions Architect (Associate) - Study Notes
 
 A collection of study notes based upon the [AWS Certified Solutions Architect (SAA-C02)](https://www.wiley.com/en-gb/AWS+Certified+Solutions+Architect+Study+Guide%3A+Associate+SAA+C02+Exam%2C+3rd+Edition-p-9781119713104) exam book.
 
@@ -21,3 +21,4 @@ A collection of study notes based upon the [AWS Certified Solutions Architect (S
 
 * [Chapter 10 - The Reliability Pillar](./chapter-10)
 * [Chapter 11 - The Performance Efficiency Pillar](./chapter-11)
+* [Chapter 12 - The Security Pillar](./chapter-12)
