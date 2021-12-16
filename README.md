@@ -22,3 +22,4 @@ A collection of study notes based upon the [AWS Certified Solutions Architect (S
 * [Chapter 10 - The Reliability Pillar](./chapter-10)
 * [Chapter 11 - The Performance Efficiency Pillar](./chapter-11)
 * [Chapter 12 - The Security Pillar](./chapter-12)
+* [Chapter 13 - The Cost Optimisation Pillar](./chapter-13)
