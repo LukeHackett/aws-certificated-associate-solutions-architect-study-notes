@@ -1,9 +1,5 @@
 # The Domain Name System and Network Routing
 
-
-
-
-
 ## The Domain Name System
 
 - DNS is responsible for mapping human-readable domain names (like example.com) to one or more machine-readable IP addresses (like 93.184.216.34)
@@ -88,15 +84,11 @@ amazon.com.		59	IN	A	54.239.28.85
 - Route 53 routing policies provide a number ways in which you can setup complex routing requirements easily
 
   - **Simple** - simply maps a domain name to a single static value, such as an IP address
-
   - **Weighted** - distributes traffic across multiple resources according to a ratio (e.g. 10% of traffic)
-
   - **Latency** - sends users to resources in the AWS Region that’s closest to them based upon how quick a response will be (e.g. EU users to `eu-west-1` rather than `us-east-1`)
-
   - **Failover** - routes traffic to a primary resource unless it’s unavailable, in which case traffic will be redirected to a secondary resource
-
   - **Geolocation** - lets you route users based on their specific continent, country, or state. This allows you to deliver web pages in customer-appropriate languages, restrict content to regions where it’s legally permitted, or generate parallel sales campaigns. Note: if Route 53 fails to identify the origin or the request, then it will route it to a default location (that would need to be configured)
-
+  - **Geoproximity** - routes traffic based upon how close a request is to a particular longitude and latitude value or to an AWS region (it's more fine grained that Geolocation routing)
   - **Multivalue Answer** - evenly distributes traffic across multiple resources, unlike **Weighted** policies that return a single record, a **Multivalue Answer** policy returns all records, sorted in a random order
 
 ### Traffic Flow
